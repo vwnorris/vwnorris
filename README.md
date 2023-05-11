@@ -1,7 +1,7 @@
 ### Hi there 👋
-### My name is Victor, welcome to my profile!
+### I'm Victor, and welcome to my profile!
 
-- 👨🏻‍💻 I’m a third year student at NTNU - Norwegian University of Science and Technology
-- 🔬 My field of study is Engineering and ICT
-- 🦾 I am specializing in ICT and mechanical engineering
-- 📫 My email adress is vic@norris.no, don't hesitate to reach out! 
+- 👨🏻‍💻 Currently, I'm a third-year student at NTNU - the Norwegian University of Science and Technology.
+- 🔬 Im pursuing an M.Sc. in Engineering and ICT, which fuels my passion for technology and innovation.
+- 🦾 My specialization lies at the intersection of ICT and mechanical engineering, which allows me to explore exciting new frontiers including data analysis and machine learning. 
+- 📫 If you have any questions or just want to chat, feel free to reach out to me at vic@norris.no. I'm always up for a good conversation!
