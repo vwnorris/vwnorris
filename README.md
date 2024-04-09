@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hey you! 👋
 ### I'm Victor, and welcome to my profile!
 
-- 🕵🏼‍♂️ Learning now: Expanding my knowledge in .NET and applying cybersecurity principles to assure the robustness of applications. 
+- 🕵🏼‍♂️ Learning now: Expanding my knowledge in .NET and C#, while continuing to work on my NFL draft rookie predictor software using machine learning. 
 - 👨🏻‍💻 Currently: I'm on exchange at DTU - the Technical University of Denmark. 
 - 🔬 Studies: I'm a fourth-year student at NTNU - the Norwegian University of Science and Technology in Trondheim pursuing a master in Engineering and ICT.
 - 🦾 Specialization: I am at the intersection of ICT and mechanical engineering, mainly focusing on data science and machine learning.
