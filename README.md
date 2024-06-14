@@ -1,14 +1,14 @@
 ### Hey you! 👋
 ### I'm Victor, and welcome to my profile!
 
-- 🕵🏼‍♂️ Learning now: Expanding my knowledge in .NET and C#, while continuing to work on my NFL draft rookie predictor software using machine learning. 
-- 👨🏻‍💻 Currently: I'm on exchange at DTU - the Technical University of Denmark. 
-- 🔬 Studies: I'm a fourth-year student at NTNU - the Norwegian University of Science and Technology in Trondheim pursuing a master in Engineering and ICT.
+- 🕵🏼‍♂️ Learning now: Continuing to work on my NFL draft rookie predictor software using machine learning. 
+- 👨🏻‍💻 Currently: Working a summer internship, working with dotnet and C# in the Blazor framework.
+- 🔬 Studies: I'm entering my fifth year as a student at NTNU - the Norwegian University of Science and Technology in Trondheim pursuing a master in Engineering and ICT.
 - 🦾 Specialization: I am at the intersection of ICT and mechanical engineering, mainly focusing on data science and machine learning.
 - 🗝️ Background: I have a bachelors degree in Business Development and Digitalization from before i started my engineering degree at NTNU.
 - 📫 Questions, insights, or just want to exchange ideas? Reach out at vic@norris.no or join me on [LinkedIn](https://www.linkedin.com/in/victor-w-t-norris-b58336107/).
 
-### Preferred technologies:
+### Some of the technologies I have worked with:
 <div align="left">
   <a href="https://www.python.org/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
