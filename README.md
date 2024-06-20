@@ -6,7 +6,7 @@
 - 🔬 Studies: I'm entering my fifth year as a student at NTNU - the Norwegian University of Science and Technology in Trondheim pursuing a master in Engineering and ICT.
 - 🦾 Specialization: I am at the intersection of ICT and mechanical engineering, mainly focusing on data science and machine learning.
 - 🗝️ Background: I have a bachelors degree in Business Development and Digitalization from before i started my engineering degree at NTNU.
-- 📫 Questions, insights, or just want to exchange ideas? Reach out at vic@norris.no or join me on [LinkedIn](https://www.linkedin.com/in/victor-w-t-norris-b58336107/).
+- 📫 Questions, insights, or just want to exchange ideas? Reach out at vic@norris.no or connect with me on [LinkedIn](https://www.linkedin.com/in/victor-w-t-norris-b58336107/).
 
 ### Personal favorite technologies:
 <div align="left">
